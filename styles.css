@@ -2,6 +2,9 @@ body {
     background: linear-gradient(to right, #78ffd6, #007991);
 }
 
-#image {
-    
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
 }
